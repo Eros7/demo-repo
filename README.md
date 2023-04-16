@@ -1,7 +1,7 @@
-#Demo
+# DEMO
 
 Some desciption!
 
-##Sub header
+## Sub header
 
 Watch tutorial on youtube
