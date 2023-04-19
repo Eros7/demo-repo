@@ -13,3 +13,4 @@ Watch tutorial on youtube!!
 ## Local Development2
 
 1.Open index.htmll in your browser!
+2. Have fun.
